@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ridhamgarg/FIND_SAME_ELEMENTS_IN_3_SORTED_ARRAYS",
+      "program": "/Users/ridhamgarg/FIND_SAME_ELEMENTS_IN_3_SORTED_ARRAYS/build/Debug/outDebug"
+    }
+  ]
+}
